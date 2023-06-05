@@ -1,4 +1,4 @@
-/* import Fighter from '../Fighter';
+import Fighter from '../Fighter/Fighter';
 
 abstract class Battle {
   constructor(protected player: Fighter) {}
@@ -7,4 +7,4 @@ abstract class Battle {
   }
 }
 
-export default Battle; */
+export default Battle;
